@@ -2,8 +2,9 @@
 
 #### Использовалось в проекте:
 ```bash
-  * Frontend - Bootstrap 4
-  * Backend - Django 2.2.13
+  Python 3.9.12+ (x64)
+Django 4.1.4+
+Pillow 9.3.0+
   ```  
 ## Описание проекта.
 
